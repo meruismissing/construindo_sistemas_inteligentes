@@ -3,5 +3,5 @@ mensalidade = 89.90 # Antes, possuía uma virgula, que é usada para outra coisa
 matricula_ativa = True # True estava com t minúsculo, que não identifica como variável da classe booleano.
 
 print("Curso:", nome_curso) 
-print("Mensalidade:", mensalidade) # Mensalidade a variável estava com M maiusculo, variáveis não começam com letras maiúsculas, porque a máquina não identifica se não estiver em minúsculo. Quando é caso da str, pode usar letra maiúscula, minúscula, etc.
+print("Mensalidade:", mensalidade, type(mensalidade)) # Mensalidade a variável estava com M maiusculo, variáveis não começam com letras maiúsculas, porque a máquina não identifica se não estiver em minúsculo. Quando é caso da str, pode usar letra maiúscula, minúscula, etc.
 print("Matrícula ativa:", matricula_ativa)
