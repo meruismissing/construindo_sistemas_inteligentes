@@ -28,3 +28,6 @@
 
  ## ໒ ⁽ ྀི𓏼´  ᩳ`𓏼⁾ིྀა Finalização !
  （𖧹ᵔ⤙ᵔ𖧹） Se você leu até aqui, agradeço de coração, pois quero que mais pessoas vejam meu progresso como uma estudante de programação! Sempre me interessei mas nunca tive oportunidade de aprender, mas agora que posso, eu farei esse curso com todo carinho, muito obrigado pela oportunidade à todo mundo que me motivou a tentar (principalmente para meu namorado, @vmplayer), eu devo tudo à vocês. Obrigado por lerem até aqui, perdão pelos textos longos e a enrolação, mas fica aí tudo que você precisa saber sobre meu progresso e outros detalhes pessoais.
+<div align="center">
+  <img src="Emma/a8cc4c2e52676988317fe4050eebbf84 (1).jpg" alt="Emma de Veil">
+</div>
