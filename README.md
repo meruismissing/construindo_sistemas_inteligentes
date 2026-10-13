@@ -1,5 +1,5 @@
 !! ( ｡> ⩊ <｡) ~
-# Seja bem-vindo(a) ao meu README.md do curso!
+# 𓏲𝄢 Seja bem-vindo(a) ao meu README.md do curso!
 (˶  - ˕ -) ୨୧ Este repositório é dedicado à minha jornada de aprendizado em Python! Aqui você encontrará:
 
 - 𖹭 **Aulas:** anotações e conteúdos estudados durante o curso.
