@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="Untitled384_20261013145725.jpg" alt="Banner do repositório">
+</div>
+
+
 !! ( ｡> ⩊ <｡) ~
 # 𓏲𝄢 Seja bem-vindo(a) ao meu README.md do curso!
 (˶  - ˕ -) ୨୧ Este repositório é dedicado à minha jornada de aprendizado em Python! Aqui você encontrará:
