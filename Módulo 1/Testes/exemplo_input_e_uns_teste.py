@@ -6,5 +6,3 @@ idade = int(idade)
 
 if idade <= 18:
  print("Pelo visto você é menor de idade, recomendo que prossiga com seu responsável legal.")
-else: 
- print("Obrigado por validar sua idade, pode prosseguir.")
