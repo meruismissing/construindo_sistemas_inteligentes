@@ -7,5 +7,23 @@ if quantidade <= 13:
     print("O total fica em:", total)
 else:
     print("Este item não está em estoque.")
-    print("Produto fora de estoque!")
- 
+ # .lower deixa tudo minusculo
+ # .upper deixa tudo maiusculo
+ # .capitalize deixa tudo com letra maiuscula no começo.
+ # .swapcase para inverter o estilo da fonte, como: oLAAAA = Olaaaa
+
+# exemplos:
+teste = "Meru"
+print(teste)
+print()
+print(teste.lower())
+print()
+print(teste.upper())
+print()
+print(teste.capitalize())
+print()
+print(teste.swapcase())
+
+teste = "olá pessoal. ".capitalize() + "tudo bem?".capitalize()
+print(teste)
+
