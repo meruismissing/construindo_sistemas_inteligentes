@@ -13,3 +13,11 @@ elif media >= 5:
     print(f"Média: {media:.2f}, Em recuperação.")
 else: 
     print(f"Média: {media:.2f}, Reprovado.")
+
+temperatura = float(input("Temperatura: "))
+
+if temperatura >= 30:
+    print("Dia quente.")
+if temperatura >= 35: # com elif não mostra ambos as impressões. mostra apenas o if e não o elif. Se inverter o valor do if e o elif, funciona. ex: elif temperatura >= 30: "dia quente" e if temperatura >= 35: calor intenso
+    print("Calor intenso.")
+
