@@ -51,7 +51,7 @@
 - [ ] Funções
 
 Esta lista será atualizada conforme eu avançar nos estudos!
- ! ! (｡>﹏<)
+ ! ! (｡>﹏<) [Voltar ao topo?](https://github.com/meruismissing/construindo_sistemas_inteligentes/blob/main/README.md#%F0%93%8F%B2-seja-bem-vindoa-ao-meu-readmemd-do-curso)
 
 <div align="center">
   <img src="Novo_projeto_8_75334E31.png" alt="Banner do repositório">
