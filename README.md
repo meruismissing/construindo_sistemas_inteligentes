@@ -16,10 +16,8 @@
 - ["♡ Sobre mim"](#-aqui-ficam-as-respostas)
 - ["♡ Meus objetivos"](https://github.com/meruismissing/construindo_sistemas_inteligentes/blob/main/README.md#%E1%A1%B4%EA%AA%AB-meus-objetivos-%F0%9D%9F%B9)
 - ["♡ Sobre meu progresso"](#-sobre-meu-progresso)
-- "♡ Exercícios" (#exercícios)
-- "♡ Projetos extras" (#projetos-extras)
-- "♡ Meus objetivos" (#meus-objetivos)
-- "♡ Meu progresso" (#meu-progresso)
+- ["♡ Estou aprendendo:"](https://github.com/meruismissing/construindo_sistemas_inteligentes/blob/main/README.md#--%E0%A9%AD%E0%BB%92-estou-aprendendo)
+- ["♡ Finalização"](https://github.com/meruismissing/construindo_sistemas_inteligentes/blob/main/README.md#%E0%BB%92--%E0%BE%80%E0%BD%B2%F0%93%8F%BC--%E1%A9%B3%F0%93%8F%BC%E0%BD%B2%E0%BE%80%E1%83%90-finaliza%C3%A7%C3%A3o-)
 
 ##  ꪆ୧ "Mas Mel, o que você faz fora e dentro do curso, além de coisas bonitinhas no GitHub?"
 ## ﹢ **Aqui ficam as respostas!**
