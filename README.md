@@ -44,10 +44,10 @@
 
 <details>
   <summary> ⊹ ﹒ Curiosidades sobre mim! (Easter Egg) </summary>
-- ☆ No começo, eu ficava só no hardcode, quando ainda não tinha aprendido print(f"Mensagem {variavel}"), aí comecei a usar essas tecnologias mais moderninhas pra diminuir a complexidade e diminuir o tamanho do código. Tipo, eu fazia: print("Mensagem", variável, "Mensagem"). Como qualquer iniciante faz, mas mesmo assim, demorei uns dias para aprender a usar f no começo.
-- ☆ Levei 2 dias e meio para fazer os 21 exercícios das aulas, achei fácil e ainda nesse período fui testando if e else sem nem ao menos ter aula disso. Um exemplo que fiz foi um formulário inteiro só usando Python e sistema de If e Else só que com pontuação.
-- ☆ Por incrível que pareça, não tinha experiência nenhuma com programação até então, nunca tinha nem tocado num código, mas Python me confortou.
-- ☆ Eu tenho uns problemas pessoais meio ruins que fazem eu me sentir insegura em relação a qualquer coisa que faço, então acabo me ferrando muito e me desmotivando, por exemplo, odeio quando me corrigem falando que tá "tudo errado", isso dói. Tem dias que não quero nem sair da cama (perdão pelo desabafo) e o curso me motiva a levantar, me arrumar e ficar feliz até o final do dia!
+☆ No começo, eu ficava só no hardcode, quando ainda não tinha aprendido print(f"Mensagem {variavel}"), aí comecei a usar essas tecnologias mais moderninhas pra diminuir a complexidade e diminuir o tamanho do código. Tipo, eu fazia: print("Mensagem", variável, "Mensagem"). Como qualquer iniciante faz, mas mesmo assim, demorei uns dias para aprender a usar f no começo.
+☆ Levei 2 dias e meio para fazer os 21 exercícios das aulas, achei fácil e ainda nesse período fui testando if e else sem nem ao menos ter aula disso. Um exemplo que fiz foi um formulário inteiro só usando Python e sistema de If e Else só que com pontuação.
+☆ Por incrível que pareça, não tinha experiência nenhuma com programação até então, nunca tinha nem tocado num código, mas Python me confortou.
+☆ Eu tenho uns problemas pessoais meio ruins que fazem eu me sentir insegura em relação a qualquer coisa que faço, então acabo me ferrando muito e me desmotivando, por exemplo, odeio quando me corrigem falando que tá "tudo errado", isso dói. Tem dias que não quero nem sair da cama (perdão pelo desabafo) e o curso me motiva a levantar, me arrumar e ficar feliz até o final do dia!
 </details>
   
   
