@@ -25,9 +25,9 @@
 - **✧ Inteligência Artificial:** tenho muito interesse em aprender sobre diferentes tipos de IA. Um dos meus objetivos é criar uma IA capaz de gerar textos decorados personalizados, identificando o estilo desejado pelo usuário e transformando suas ideias em textos que correspondam às suas preferências.
 - **𝜗𝜚 Interesse em outras linguagens:** também quero aprender outras linguagens de programação, como C, C++ e JavaScript. Gosto de aprender por meio de cursos, explicações e atividades práticas, pois acredito que uma boa orientação pode tornar o aprendizado mais proveitoso.
 
-
+## Objetivos abaixo (a fonte tá muito pequena) ↓ 
 <details>
-  <summary> ‎ᡴꪫ Meus Objetivos! ‹𝟹 </summary>
+  <summary> # ‎ᡴꪫ Meus Objetivos! ‹𝟹 </summary>
 
   Aqui ficam meus objetivos de acordo com o que estou estudando.
 
