@@ -14,8 +14,8 @@
 ୨୧ Navegação
 
 - ["♡ Sobre mim"](#-aqui-ficam-as-respostas)
-- "♡ Minha rotina de estudos" (#minha-rotina-de-estudos)
-- "♡ Aulas e anotações" (#aulas-e-anotações)
+- ["♡ Meus objetivos"](#-meus-objetivos-)
+- ["♡ Sobre meu progresso"](#-sobre-meu-progresso)
 - "♡ Exercícios" (#exercícios)
 - "♡ Projetos extras" (#projetos-extras)
 - "♡ Meus objetivos" (#meus-objetivos)
