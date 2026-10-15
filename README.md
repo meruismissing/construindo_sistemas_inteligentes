@@ -11,7 +11,7 @@
 - 𖹭 **Exercícios:** atividades práticas para desenvolver minha lógica de programação.
 - 𖹭 **Projetos extras:** algumas ideias e experimentos que desenvolvo por conta própria usando Python.
 
-#  ꪆ୧ "Mas Mel, o que você faz fora e dentro do curso, além de coisas bonitinhas no GitHub?"
+##  ꪆ୧ "Mas Mel, o que você faz fora e dentro do curso, além de coisas bonitinhas no GitHub?"
 ## ﹢ **Aqui ficam as respostas!**
 - **⊹ Rotina de Aprendizado:** Eu **estudo** Python diariamente e treino conceitos novos dentro do Python para aprimorar minhas habilidades de programação.
 - **✧ Inteligência Artificial:** tenho muito interesse em aprender sobre diferentes tipos de IA. Um dos meus objetivos é criar uma IA capaz de gerar textos decorados personalizados, identificando o estilo desejado pelo usuário e transformando suas ideias em textos que correspondam às suas preferências.
