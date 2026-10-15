@@ -14,7 +14,7 @@
 ୨୧ Navegação
 
 - ["♡ Sobre mim"](#-aqui-ficam-as-respostas)
-- ["♡ Meus objetivos"](#-meus-objetivos-)
+- ["♡ Meus objetivos"](https://github.com/meruismissing/construindo_sistemas_inteligentes/blob/main/README.md#%E1%A1%B4%EA%AA%AB-meus-objetivos-%F0%9D%9F%B9)
 - ["♡ Sobre meu progresso"](#-sobre-meu-progresso)
 - "♡ Exercícios" (#exercícios)
 - "♡ Projetos extras" (#projetos-extras)
