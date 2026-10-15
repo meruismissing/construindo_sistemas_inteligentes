@@ -13,7 +13,7 @@
 
 ୨୧ Navegação
 
-- "♡ Sobre mim" (#-aqui-ficam-as-respostas)
+- ["♡ Sobre mim"](#-aqui-ficam-as-respostas)
 - "♡ Minha rotina de estudos" (#minha-rotina-de-estudos)
 - "♡ Aulas e anotações" (#aulas-e-anotações)
 - "♡ Exercícios" (#exercícios)
