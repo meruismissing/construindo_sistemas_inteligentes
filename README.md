@@ -41,6 +41,15 @@
 
  ## ⋆｡°✩ Sobre meu progresso!
   Meu repositório foca no meu progresso como aluna do curso e de programação num geral. Peço perdão por não ser perfeita, sou inexperiente nesta área mas dou meu melhor e me esforço por tudo que faço, meu dia-a-dia não é tão simples então busco sempre ser mais organizada nessa questão de cronograma, não tenho todo o tempo do mundo para estudar mas diariamente estudo. Eu estou progredindo lentamente mas eu estou tentando meu melhor. Tenho um caderno de anotações (muito fofo por sinal) que eu escrevo muitas coisas que aprendo.
+
+<details>
+  <summary> ⊹ ﹒ Curiosidades sobre mim! (Easter Egg) </summary>
+- ☆ No começo, eu ficava só no hardcode, quando ainda não tinha aprendido print(f"Mensagem {variavel}"), aí comecei a usar essas tecnologias mais moderninhas pra diminuir a complexidade e diminuir o tamanho do código. Tipo, eu fazia: print("Mensagem", variável, "Mensagem"). Como qualquer iniciante faz, mas mesmo assim, demorei uns dias para aprender a usar f no começo.
+- ☆ Levei 2 dias e meio para fazer os 21 exercícios das aulas, achei fácil e ainda nesse período fui testando if e else sem nem ao menos ter aula disso. Um exemplo que fiz foi um formulário inteiro só usando Python e sistema de If e Else só que com pontuação.
+- ☆ Por incrível que pareça, não tinha experiência nenhuma com programação até então, nunca tinha nem tocado num código, mas Python me confortou.
+- ☆ Eu tenho uns problemas pessoais meio ruins que fazem eu me sentir insegura em relação a qualquer coisa que faço, então acabo me ferrando muito e me desmotivando, por exemplo, odeio quando me corrigem falando que tá "tudo errado", isso dói. Tem dias que não quero nem sair da cama (perdão pelo desabafo) e o curso me motiva a levantar, me arrumar e ficar feliz até o final do dia!
+</details>
+  
   
 ## ꒰ † ੭໒꒱ Estou aprendendo:
 - ꒰ঌ O básico (print, input, etc.)
