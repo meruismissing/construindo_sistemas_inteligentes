@@ -11,6 +11,16 @@
 - 𖹭 **Exercícios:** atividades práticas para desenvolver minha lógica de programação.
 - 𖹭 **Projetos extras:** algumas ideias e experimentos que desenvolvo por conta própria usando Python.
 
+୨୧ Navegação
+
+- "♡ Sobre mim" (#-aqui-ficam-as-respostas)
+- "♡ Minha rotina de estudos" (#minha-rotina-de-estudos)
+- "♡ Aulas e anotações" (#aulas-e-anotações)
+- "♡ Exercícios" (#exercícios)
+- "♡ Projetos extras" (#projetos-extras)
+- "♡ Meus objetivos" (#meus-objetivos)
+- "♡ Meu progresso" (#meu-progresso)
+
 ##  ꪆ୧ "Mas Mel, o que você faz fora e dentro do curso, além de coisas bonitinhas no GitHub?"
 ## ﹢ **Aqui ficam as respostas!**
 - **⊹ Rotina de Aprendizado:** Eu **estudo** Python diariamente e treino conceitos novos dentro do Python para aprimorar minhas habilidades de programação.
