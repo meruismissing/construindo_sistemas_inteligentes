@@ -38,4 +38,25 @@ if quantidade > 0:
 else:
     print("A quantidade deve ser maior que zero.")
 
-    
+nome = input("Nome do robô: ")
+energia = int(input("Energia atual (0 a 100): "))
+resposta = input("Está em manutenção? (sim/nao): ")
+
+print("=== CENTRAL DE MISSÕES ===")
+print("Robô:", nome)
+
+if energia < 0 or energia > 100:
+    print("Energia inválida. Informe um valor entre 0 a 100.")
+elif resposta != "sim" and resposta != "nao":
+    print("Resposta inválida. Use sim ou nao.")
+else:
+    em_manutencao = resposta == "sim"
+
+    if energia >= 50 and not em_manutencao:
+        print("Missão autorizada.")
+        print("Energia após a missão:", energia)
+    elif em_manutencao: 
+        print("Missão bloqueada: robô em manutenção.")
+    else: 
+        print("Missão bloqueada: energia insuficiente.")
+print("Atendimento encerrado.")
