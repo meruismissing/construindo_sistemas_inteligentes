@@ -25,11 +25,19 @@
 - **✧ Inteligência Artificial:** tenho muito interesse em aprender sobre diferentes tipos de IA. Um dos meus objetivos é criar uma IA capaz de gerar textos decorados personalizados, identificando o estilo desejado pelo usuário e transformando suas ideias em textos que correspondam às suas preferências.
 - **𝜗𝜚 Interesse em outras linguagens:** também quero aprender outras linguagens de programação, como C, C++ e JavaScript. Gosto de aprender por meio de cursos, explicações e atividades práticas, pois acredito que uma boa orientação pode tornar o aprendizado mais proveitoso.
 
-## ‎ᡴꪫ Meus Objetivos! ‹𝟹 
+
+<details>
+  <summary> ‎ᡴꪫ Meus Objetivos! ‹𝟹 </summary>
+
+  Aqui ficam meus objetivos de acordo com o que estou estudando.
+
 - ꕤ Aprimorar minha lógica de programação.
 - ꕤ Desenvolver projetos cada vez mais completos com Python.
 - ꕤ Aprender mais sobre inteligência artificial e processamento de linguagem natural.
 - ꕤ Explorar novas linguagens e tecnologias no futuro.
+
+</details>
+
 
  ## ⋆｡°✩ Sobre meu progresso!
   Meu repositório foca no meu progresso como aluna do curso e de programação num geral. Peço perdão por não ser perfeita, sou inexperiente nesta área mas dou meu melhor e me esforço por tudo que faço, meu dia-a-dia não é tão simples então busco sempre ser mais organizada nessa questão de cronograma, não tenho todo o tempo do mundo para estudar mas diariamente estudo. Eu estou progredindo lentamente mas eu estou tentando meu melhor. Tenho um caderno de anotações (muito fofo por sinal) que eu escrevo muitas coisas que aprendo.
