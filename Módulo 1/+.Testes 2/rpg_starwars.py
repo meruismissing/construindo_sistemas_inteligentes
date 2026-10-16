@@ -9,26 +9,14 @@ print(f"| Força: {forca}        |")
 print(f"| Raça: {raca}    |")
 
 print("Anakin Skywalker, desde criança, sempre quis ser um grande contribuidor para as tecnologias do universo, com 9 anos inventou seu primeiro droide, C-3PO, e no mesmo ano, aconteceu algo que mudou sua vida. Imagine se você fosse ele?")
-<<<<<<< HEAD
-participar = input("Gostaria de imaginar? (sim/nao) ")
-=======
+
 participar = input("Gostaria de imaginar? (sim/nao) ").lower()
->>>>>>> 3c045a6c4a37c8f01810705d37d2603d79a4702b
 
-if participar == "nao": 
-    print("Comando cancelado")
-    print("Você é bem vindo à tentar de novo a qualquer momento.")
-    print()
-    exit()
-<<<<<<< HEAD
-print("﹒┈ ﹒┈ ﹒☆ ﹒┈ ﹒┈ ﹒")
-print("Você acorda em Tatooine... mergulhado na areia escaldante após uma tempestade. Você percebe que foi transformado em, ninguém mais, ninguém menos que: Anakin Skywalker. Você se levanta e procura pela sua mãe, mas olha seus trajes e percebe em que momento da sua vida você está. Sua mãe morrerá em breve. Nos seus braços.")
-=======
-
-elif participar == "sim":
+if participar == "sim":
  print("﹒┈ ﹒┈ ﹒☆ ﹒┈ ﹒┈ ﹒")
  print("Você acorda em Mustafar... De frente para Padmé Amidala, sua esposa, que está segurando seu próprio pescoço em defesa do seu ataque, você estava quase enforcando ela. Então aparece Obi Wan Kenobi, seu tão querido companheiro, sai da nave de Padmé. Automaticamente, seu cérebro se contorce e você começa a ficar paranóico, pensando: 'O que ele está fazendo na nave de Padmé?', mas é um caminho sem volta.")
  print()
+ 
 else:
   exit()
 
@@ -63,4 +51,3 @@ elif pular == "render":
 else:
     print("Opção inválida, jovem Anakin!")
     exit()
->>>>>>> 3c045a6c4a37c8f01810705d37d2603d79a4702b

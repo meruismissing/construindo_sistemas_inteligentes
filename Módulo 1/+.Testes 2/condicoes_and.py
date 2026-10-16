@@ -60,3 +60,4 @@ else:
     else: 
         print("Missão bloqueada: energia insuficiente.")
 print("Atendimento encerrado.")
+
