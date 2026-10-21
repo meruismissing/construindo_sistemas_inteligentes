@@ -1,0 +1,33 @@
+name: Atualizar Imagem do Drive
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Roda todo dia às 8h (opcional)
+  workflow_dispatch: # Permite rodar manualmente clicando em um botão
+
+jobs:
+  baixar-e-commitar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependências
+        run: pip install google-api-python-client google-auth
+
+      - name: Executar script para baixar imagem
+        env:
+          DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
+          FILE_ID: ${{ secrets.GOOGLE_DRIVE_FILE_ID }}
+        run: python baixar_imagem.py
+
+      - name: Enviar alterações para o GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualiza imagem automaticamente do Google Drive"
+          file_pattern: "caminho/para/sua/imagem.png"
