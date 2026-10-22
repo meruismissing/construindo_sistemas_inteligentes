@@ -1,0 +1,1 @@
+numero = int(input("Em que número "))
