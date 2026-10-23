@@ -4,6 +4,6 @@ contador = tabuada
 while contador != limite:
     print(contador)
     contador += tabuada
-    
+
 print(limite)
 print("Fim!")
