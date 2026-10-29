@@ -16,3 +16,13 @@ elif tempo_nece > tempo_disp:
     print("Solicitar apoio: tempo insuficiente.")
 elif tempo_nece <= tempo_disp and risco == "sim":
     print("Prioridade máxima.")
+elif tempo_nece <= tempo_disp and risco == "nao" and pista == "sim":
+    print("Prioridade alta.")
+elif tempo_nece <= tempo_disp and risco == "nao" and pista == "nao":
+    print("Prioridade normal.")
+
+minutos_restantes = tempo_disp - tempo_nece
+if minutos_restantes >= 1:
+    print("Minutos que restarão após a análise:", minutos_restantes)
+
+# Se há risco imediato mas falta tempo, aparece que é necessário solicitar apoio porque eu coloquei em uma ordem em que se o tempo necessário é maior que o disponível, mostra essa resposta antes de qualquer outra. 

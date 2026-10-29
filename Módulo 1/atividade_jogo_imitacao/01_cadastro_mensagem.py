@@ -19,7 +19,7 @@ print(f"""
 Codinome: {codinome}
 ID Mensagem: {mensagem}
 Quantidade grupos: {qtd_simbolos}
-Tempo total: {total}
+Tempo total: {total:.2f}
 """)
 # A identificação continua texto pois contém texto no meio ou é para ser lido como um código, não um número em questão.
 # É adequado usar float porque pode ser um tempo quebrado, como, por exemplo, um minuto e meio.
