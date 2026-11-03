@@ -63,7 +63,7 @@
 
 - [x] Variáveis e entrada de dados
 - [x] Estruturas condicionais ("if", "elif" e "else")
-- [ ] Estruturas de repetição ("for" e "while")
+- [x] Estruturas de repetição ("for" e "while")
 - [ ] Listas e dicionários
 - [ ] Funções
 
