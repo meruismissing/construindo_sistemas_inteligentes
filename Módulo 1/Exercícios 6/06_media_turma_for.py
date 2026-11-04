@@ -1,22 +1,22 @@
-qtd_alunos = int(input("Quantos alunos tem na turma? "))
-if qtd_alunos <= 0:
-    print("Esse número é inválido.")
-else:
-  soma = 0
-  for i in range(0, qtd_alunos):
-   nota = float(input(f"Qual a nota do aluno? "))
-   soma += nota
-   while nota < 0 or nota > 10:
-    print("Nota inválida, selecione uma de 0 a 10.")
-    nota = float(input(f"Qual a nota do aluno? "))
+notas = []
 
-soma = soma + nota
-if nota >= 7:
-    print("A nota está acima da média.")
+for numero in range(1, 5):
+    nota = float(input("Digite uma nota de 0 a 10: "))
+    notas.append(nota)
 
+total = 0
+aprovados = 0
 
-media = soma / qtd_alunos
-if media > 10 or media < 0:
-    print("Essa média é inválida.")
+for nota in notas:
+    total += nota
+    while nota < 0 or nota > 10:
+        nota = float(input("Nota anterior inválida. Digite uma nota de 0 a 10: "))
+    while nota >= 7:
+        aprovados += 1
+        break
 
-print(f"Média da turma: {media:.2f}")
+media = total / len(notas)
+
+print(f"Notas registradas: {notas}")
+print(f"Média da turma: {media}")
+print("Quantos alunos foram aprovados:", aprovados)
