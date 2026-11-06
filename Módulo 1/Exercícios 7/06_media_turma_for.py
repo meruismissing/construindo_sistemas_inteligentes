@@ -20,3 +20,4 @@ media = total / len(notas)
 print(f"Notas registradas: {notas}")
 print(f"Média da turma: {media}")
 print("Quantos alunos foram aprovados:", aprovados)
+
