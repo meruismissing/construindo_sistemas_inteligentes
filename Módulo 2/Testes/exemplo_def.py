@@ -16,4 +16,3 @@ def total_venda(valor, quantidade):
     return valor * quantidade
 
 print(total_venda(10.50, 33.7))
-
