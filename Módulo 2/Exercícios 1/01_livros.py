@@ -16,4 +16,7 @@ livro1.resumo()
 print()
 livro2.resumo()
 
+# Classe: Livro
+# Instâncias: livro1 e livro2
+# atributos: titulo, autor e paginas
 # a alteração só afeta um, pois muda só de um.
