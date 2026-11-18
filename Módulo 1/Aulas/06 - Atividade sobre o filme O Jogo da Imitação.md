@@ -1,4 +1,4 @@
-# Atividade — O Jogo da Imitação: da investigação ao código
+python -m pip install biblioteca# Atividade — O Jogo da Imitação: da investigação ao código
 
 **Base:** filme *O Jogo da Imitação* e conteúdos de introdução ao Python, `input()` e estruturas condicionais.
 
