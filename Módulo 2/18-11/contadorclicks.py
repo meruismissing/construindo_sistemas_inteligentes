@@ -13,9 +13,10 @@ rotulo = tk.Label(
 )
 
 rotulo.pack(pady=20)
-
+clicks = 0
 def clicar():
-    clicks = clicks + 1
+    global clicks
+    clicks += 1
     rotulo.config(text=f"Qtd. de clicks: {clicks}")
 
 botao = tk.Button(
