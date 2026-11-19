@@ -36,12 +36,13 @@ num_doi.pack(pady=10)
 num_dois.pack(pady=10)
 
 def mostrar_soma():
+    primeiro = int(num_um.get())
+    segundo = int(num_dois.get())
     print(f"Número um: {num_um.get()
 }")
     print(f"Número dois: {num_dois.get()
 }")
-    resultado = 0
-    resultado += num_um.get() + num_dois.get()
+    resultado = primeiro + segundo
     print(f"Resultado: {resultado}")
 
 botao = tk.Button(
