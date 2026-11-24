@@ -64,7 +64,7 @@ def mostrar_dados():
 }")
     print(f"Cidade: {cidade.get()
 }")
-    print(f"Olá, {nome.get()}, seu email é {email.get()} e você é de {cidade.get()}")
+    rotulo.config(text=f"Olá, {nome.get()}, seu email é {email.get()} e você é de {cidade.get()}")
 
 botao = tk.Button(
     janela,
